@@ -11,7 +11,7 @@ body{
 #pink{
     color: palevioletred;
 }
-section{
+.Flexible-container{
     display: flex;
     margin-top: 250px;
 }
@@ -47,3 +47,4 @@ section{
         background-position: right;
 
     }
+    
