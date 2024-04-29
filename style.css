@@ -47,4 +47,39 @@ body{
         background-position: right;
 
     }
-    
+    .ex-1{
+        box-shadow: 10px 8px 50px  gray;
+        width: 50%;
+        padding-right: 5%;
+        padding-left: 5%;
+        padding-top: 5px;
+       
+        padding-bottom: 200px;
+        border-radius: 10px
+        
+        
+        
+        }
+        
+        
+    h1{
+        font-size: 40px;
+    }
+    .experience-area{
+        background-image: url(images/exp-bg.png);
+        background-repeat: no-repeat;
+    }
+    #baby{
+        border-image: linear-gradient(rgb(53, 224, 119),orange);
+        border-left: solid 7px;
+        border-image-slice: 1;
+    }
+    #senior{
+        border-image: linear-gradient(rgb(37, 164, 222),rgb(228, 20, 224));
+        border-left: solid 8px;
+        border-image-slice: 1;
+    }
+    footer {
+        text-align: center;
+        padding-top: 20px;
+    }
