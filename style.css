@@ -13,7 +13,9 @@ body{
 }
 section{
     display: flex;
+    margin-top: 250px;
 }
+
 .width{
     width: 50%;
     padding-left: 5%;
@@ -31,5 +33,17 @@ section{
 .margin{
     background-repeat:no-repeat ;
     background-image: url(images/top-banner.png);
-
 }
+    .link-hub{
+        color: aliceblue;
+        background-image: linear-gradient(rgb(228, 75, 242),rgb(242, 111, 40));
+        padding: 10px,40px;
+        border-radius: 9px;
+        text-decoration: none;
+    }
+    .big-dreams{
+        background-image: url(images/dream-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+
+    }
